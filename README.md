@@ -1,7 +1,7 @@
 <h1># Video-Streamer</h1>
 
 <ul>
-	<li><span style="font-size:16px"><strong>This is a Video Streamer App&nbsp;live streams&nbsp;in HLS(.m3u8) format.</strong></span></li>
+	<li><span style="font-size:16px"><strong>This is a Video Streamer App&nbsp;live streams&nbsp;in HLS(.m3u8) format</strong></span></li>
 	<li><span style="font-size:16px">This Player also supports <strong>DASH(.mpd)</strong> format using with or without <strong>CLEARKEY</strong> values.</span></li>
 	<li><span style="font-size:16px">This Player is made using <strong>Google ExoPlayer Library</strong>.</span></li>
 	<li><span style="font-size:16px"><strong>OkHttpClient</strong> is also used in this project for fetching raw data.</span></li>
